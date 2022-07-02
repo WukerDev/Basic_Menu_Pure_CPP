@@ -4,4 +4,4 @@ Menu itself:
 
 
 Configuration file:
-![image](https://user-images.githubusercontent.com/108416911/177013351-00008e37-c59a-4c88-bd35-df9cc38cec13.png)
+![image](https://user-images.githubusercontent.com/108416911/177013370-2a0adc3c-541b-42b5-9f63-67e4677f37d5.png)
