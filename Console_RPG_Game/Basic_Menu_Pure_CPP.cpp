@@ -13,6 +13,7 @@ std::string menu_base[5] = { "Play", "Help", "Exit", "Credits", "Github" };
 
 void text_def(std::string text) { HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);  SetConsoleTextAttribute(h, 15); std::cout << text << std::endl;
 };
+
 void text_sel(std::string text) {
     HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);  SetConsoleTextAttribute(h, 240); std::cout << text << std::endl; SetConsoleTextAttribute(h, 15);
 };
